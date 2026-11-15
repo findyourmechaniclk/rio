@@ -46,7 +46,7 @@
 ## Citation
 
 Source:
-[`inst/CITATION`](https://github.com/gesistsa/rio/blob/cloudtune/eval-member-01-r0378-43a828a74873-a/inst/CITATION)
+[`inst/CITATION`](https://github.com/gesistsa/rio/blob/cloudtune/eval-member-01-r0378-43a828a74873-c/inst/CITATION)
 
 Chan C, Leeper T, Becker J, Schoch D (2023). *rio: A Swiss-army knife
 for data file I/O*. <https://cran.r-project.org/package=rio>.
