@@ -1,5 +1,15 @@
 # Changelog
 
+## rio 1.3.1
+
+CRAN release: 2026-10-23
+
+- Code quality fixes h/t Hugo Gruson
+  [\#486](https://github.com/gesistsa/rio/issues/486)
+- Fixes for `haven`’s upcoming update h/t Hadley Wickam and his AI
+  [\#488](https://github.com/gesistsa/rio/issues/488)
+- CRAN release
+
 ## rio 1.3.0
 
 CRAN release: 2026-04-02
